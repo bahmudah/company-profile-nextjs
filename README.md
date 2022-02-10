@@ -1,5 +1,5 @@
 # slicing-webpro
-Slicing single page website company profile  
+
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/46936229/153215761-c2713150-1ae4-4b83-a08e-f57d53ffd401.svg" height="90px" width="180px">  
@@ -7,11 +7,16 @@ Slicing single page website company profile
 </p>
 
 ## Table of Contents
+- [About](#About)
 - [Technologies](#Technologies)
 - [Screenshot](#Screenshot)
 - [Demo-Video](#Demo-Video)
 ---
 
+
+## About
+This project is a company profile website slicing from figma design with
+tailwindcss first-utility framework  
 
 ## Technologies
 Project is created with
