@@ -7,14 +7,14 @@
 </p>
 
 ## Table of Contents
-- [About](#About)
+- [About Project](#About-Project)
 - [Technologies](#Technologies)
 - [Screenshot](#Screenshot)
 - [Demo-Video](#Demo-Video)
 ---
 
 
-## About
+## About Project
 This project is a company profile website slicing from figma design with
 tailwindcss first-utility framework  
 
