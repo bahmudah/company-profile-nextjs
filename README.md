@@ -21,3 +21,6 @@ Project is created with
 
 * Nextjs
 * Tailwindcss
+
+## Demo
+company-profile-nextjs-tawny.vercel.app
