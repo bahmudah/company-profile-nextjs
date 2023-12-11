@@ -23,4 +23,4 @@ Project is created with
 * Tailwindcss
 
 ## Demo
-[JF.CO](https://www.company-profile-nextjs-tawny.vercel.app)
+company-profile-nextjs-tawny.vercel.app
