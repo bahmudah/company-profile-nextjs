@@ -1,20 +1,22 @@
-import '../styles/globals.css';
+import HeaderHero from "../components/HeaderHero";
+import AppShell from "../components/Layouts/AppShell";
+import "../styles/globals.css";
 // import 'tailwindcss/tailwind.css';
-import Head from 'next/head';
+import Head from "next/head";
 
 function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <link rel='preconnect' href='https://fonts.googleapis.com' />
-        <link rel='preconnect' href='https://fonts.gstatic.com' />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
-          href='https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap'
-          rel='stylesheet'
+          href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=swap"
+          rel="stylesheet"
         />
         <link
-          href='https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Source+Sans+Pro:wght@400;600&display=swap'
-          rel='stylesheet'
+          href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Source+Sans+Pro:wght@400;600&display=swap"
+          rel="stylesheet"
         />
       </Head>
       <Component {...pageProps} />
